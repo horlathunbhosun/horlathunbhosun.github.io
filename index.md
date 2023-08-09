@@ -21,35 +21,10 @@ I am deeply passionate about utilizing technology to tackle intricate problems a
 <a href="https://instagram.com/olaolulode" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/instagram.png" /></a>
 <a href="https://twitter.com/olaolulode" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/twitter.png" /></a>
 
-<br/>
+<br/> <br/>
 
 
-<!--
-**horlathunbhosun/horlathunbhosun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/olaolulode">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/olulode-olatunbosun/">
-  <img align="left" alt="Olulode's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/ci4/ci4.png"></code>
-<a href="https://imgur.com/r/ProgrammerHumor/eWnwDHT"><img height="400" width="400" src="https://i.imgur.com/eWnwDHT.jpg"></a>
- 
--->
 
 ## Languages and DataStore
 
@@ -99,3 +74,33 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayoayomide/ayoayomide/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayoayomide/ayoayomide/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+
+<!--
+**horlathunbhosun/horlathunbhosun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/olaolulode">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/olulode-olatunbosun/">
+  <img align="left" alt="Olulode's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/ci4/ci4.png"></code>
+<a href="https://imgur.com/r/ProgrammerHumor/eWnwDHT"><img height="400" width="400" src="https://i.imgur.com/eWnwDHT.jpg"></a>
+ 
+-->
