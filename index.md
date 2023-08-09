@@ -13,15 +13,14 @@ My proficiency extends across a wide range of programming languages and tools, i
 I am deeply passionate about utilizing technology to tackle intricate problems and consistently strive to enhance my knowledge and skills. By staying abreast of the latest advancements and trends in the field, I ensure that I am equipped to provide innovative and efficient solutions.
 
 
+## Contact Information
+
+[Stackoverflow](https://stackoverflow.com/users/8029521/olaolulode)   [Linkedin](https://www.linkedin.com/in/olulode-olatunbosun/)   [Instagram](https://instagram.com/olaolulode)  [Twitter ](https://twitter.com/olaolulode)  
+
+Email: olatunbosunolulode@gmail.com
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=horlathunbhosun&label=Profile%20views&color=0e75b6&style=flat" alt="horlathunbhosun" /> </p>
-
-<a href="https://www.linkedin.com/in/olulode-olatunbosun/" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/linkedin.png" /></a>
-<a href="https://instagram.com/olaolulode" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/instagram.png" /></a>
-<a href="https://twitter.com/olaolulode" target="_blank"><img align="left" alt="@leon0399" width="32px" src="https://github.com/leon0399/leon0399/blob/master/icons/twitter.png" /></a>
-
-<br/> <br/>
+<br/>
 
 
 
