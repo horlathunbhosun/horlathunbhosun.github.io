@@ -96,11 +96,13 @@ Here are some ideas to get you started:
 
 
 ## Stats
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=horlathunbhosun&show_icons=true&locale=en&layout=compact" alt="horlathunbhosun" /></p> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=horlathunbhosun&show_icons=true&locale=en&layout=compact" alt="horlathunbhosun" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=horlathunbhosun&" alt="horlathunbhosun" /></p>
+
+-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=horlathunbhosun&show_icons=true&locale=en" alt="horlathunbhosun" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=horlathunbhosun&" alt="horlathunbhosun" /></p>
 
 
 <picture>
